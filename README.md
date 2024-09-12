@@ -57,8 +57,8 @@ This project explores LinkedIn job postings to predict trends in career and prof
 - **For Policymakers**: Helps in curriculum and policy development to address workforce trends and needs.
 
 ## Authors
-- Saikeshav Motwani
 - Ayush Patel
+- Saikeshav Motwani
 - Viraj Bhavsar
 - Mitesh Singh
 - Sherin Jacob
